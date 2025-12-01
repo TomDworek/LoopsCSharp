@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="Loops/Oppgave1.csproj" />
+  <Project Path="Oppgave2/Oppgave2.csproj" />
+  <Project Path="while/Oppgave3.csproj" />
+</Solution>
